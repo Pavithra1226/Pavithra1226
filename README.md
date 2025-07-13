@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Pavithra! 👋
 
-<!--
-**Pavithra1226/Pavithra1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA graduate currently working as a programmer at a college.  
+💡 Passionate about SQL, data analysis, and backend systems.  
+🎨 Also exploring frontend technologies like HTML and CSS to build user-friendly interfaces.  
+🌱 Always learning and building projects to grow as a developer.
 
-Here are some ideas to get you started:
+## 📊 Featured Project
+- [advanced_queries.sql](https://github.com/Pavithra1226/advanced_queries.sql):  
+  A collection of advanced SQL queries for data analysis and portfolio demonstration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- GitHub: [Pavithra1226](https://github.com/Pavithra1226)
+- *(Optional: add LinkedIn, email, or portfolio website)*
+
+> Thanks for visiting my profile!
