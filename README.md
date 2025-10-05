@@ -11,6 +11,6 @@
 
 ## 📫 Connect with me
 - GitHub: [Pavithra1226](https://github.com/Pavithra1226)
-- *(Optional: add LinkedIn, email, or portfolio website)*
+
 
 > Thanks for visiting my profile!
